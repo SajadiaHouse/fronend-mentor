@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fronend-mentor/expenses-chart-component-main/static/css/main.e46461e6.css",
+    "main.js": "/fronend-mentor/expenses-chart-component-main/static/js/main.7036fb3c.js",
+    "index.html": "/fronend-mentor/expenses-chart-component-main/index.html",
+    "main.e46461e6.css.map": "/fronend-mentor/expenses-chart-component-main/static/css/main.e46461e6.css.map",
+    "main.7036fb3c.js.map": "/fronend-mentor/expenses-chart-component-main/static/js/main.7036fb3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46461e6.css",
+    "static/js/main.7036fb3c.js"
+  ]
+}
